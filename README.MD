@@ -41,4 +41,16 @@ This is a collection of videos I plan on following in order to learn and become 
 1. [Lesson 10 - Slalom or wave in the verticle](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
 
 
-1. []()
+### Section 3 -- Freestyle bootcamp with Tyrantt. If for some reason they have another cohort when I get to here I would like to do it live
+1. [Lesson 1 - Orbits](https://www.youtube.com/watch?v=6SI5ambVy9E&t=47s)
+1. [Lesson 2 - Rolls, Flips and Yaw spins](https://www.youtube.com/watch?v=Ysgm-kBupyU&t=2s)
+1. [Lesson 3 - Split S, Inverted Rewind, Cradle, Building Dive](https://www.youtube.com/watch?v=V_81k9_6UTw&t=8s)
+1. [Lesson 4 - Mavric loop, Beginner Mady, Jumprope, Mavy Roll, Cinnamon roll](https://www.youtube.com/watch?v=k2_5IQ71OR8&t=5s)
+1. [Lesson 5 - Mid Boot camp trial](https://www.youtube.com/watch?v=FPTZ-3GruMA)
+1. [Lesson 6 - Power loop, Immelmann turn, Side loop, Powerflip, Powerloop a large object](https://www.youtube.com/watch?v=FCBaQ8BcE30)
+1. [Lesson 7 - Matty Flip, Anti Matty, Power Switch, Wall Tap](https://www.youtube.com/watch?v=SUa4OfxewEs)
+1. [Lesson 8 - Juicy Flick, Snap back, Eject, Rubics cube](https://www.youtube.com/watch?v=squ9oP0Pbgw&t=1s)
+1. [Lesson 9 - Stall and Rewinds](https://prowhooper.com/fbc101-lesson-9/)
+1. [Lesson 10 - Freestyle run](https://prowhooper.com/fbc101-lesson-10/)
+
+
