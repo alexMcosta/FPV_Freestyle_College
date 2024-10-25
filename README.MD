@@ -28,3 +28,17 @@ This is a collection of videos I plan on following in order to learn and become 
 20. [Lesson 20 - Flying without throttle](https://www.youtube.com/watch?v=WTVtpSrlXgs&list=PLwoDb7WF6c8lCKhQOTy-Vb9LfW0VAIrTP&index=20)
 
 
+### Section 2 -- The Basics but using an actual drone with Buttrtfly FPV
+1. [Lesson 1 - Hover in ground effect](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
+1. [Lesson 2 - Hover out of ground effect](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
+1. [Lesson 3 - Long Cordinated turns](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
+1. [Lesson 4 - Crossing a gate and turning on a spot](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
+1. [Lesson 5 - Cordinated Rotations on the spot](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
+1. [Lesson 6 - Long Cordinated turns with height limit](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
+1. [Lesson 7 - Slalom with and without height limit](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
+1. [Lesson 8 - Tight curves around posts with and without height limit](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
+1. [Lesson 9 - Orbits around posts with and without height limits](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
+1. [Lesson 10 - Slalom or wave in the verticle](https://www.youtube.com/watch?v=zvjqsMOIXQs&list=PLYPR_WgF4mzUaSRz0-iBJkz1RxqhPacGX)
+
+
+1. []()
